@@ -178,7 +178,7 @@ function checkCode() {
 
     const message = document.getElementById("msg");
 
-    if (input === "29.12.2021") {
+    if (input === "29.12.2020") {
 
         message.style.display = "block";
 
